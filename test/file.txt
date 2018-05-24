@@ -1,1 +1,1 @@
-This is new commit file
+This is new commit file for master
